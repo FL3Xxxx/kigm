@@ -10,3 +10,7 @@ https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/11/embedding/
 https://github.com/Jefferson-Henrique/GetOldTweets-python
 : 
 https://ksh850817.tistory.com/953
+
+https://beomi.github.io/2017/02/27/HowToMakeWebCrawler-With-Selenium/
+: 크롤러
+
