@@ -1,0 +1,14 @@
+개방형 혁신을 도입한 아이디어 지원 플랫폼 사례 연구
+
+공공 빅데이터 개방 및 활용 활성화 방안에 대한 연구
+
+국내 공공 데이터 개방수준을 통해서 본 OECD의 Open,  비판적 논의
+
+빅데이터 플랫폼 현황 및 이슈 분석
+
+연구 데이터 관리 서비스의 구현 시 고려 사항에 관한 연구
+
+https://www.kaggle.com/gsdeepakkumar/who-is-a-data-scientist-a-statistical-approach 카글 서베이
+
+세종단지 딥러닝심기 캐글소개 이유한
+
